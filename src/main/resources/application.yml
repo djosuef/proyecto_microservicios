@@ -18,3 +18,5 @@ springdoc:
     path: /api-docs
   show-actuator: false
   packages-to-scan: com.aulamatriz.ms.management.ms_user.controller.v2
+control:
+  my-exception: error en el sistema
